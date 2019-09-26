@@ -141,4 +141,4 @@ var mark = {
 
 john.calcTips();
 mark.calcTips();
-// console.log(john);
+console.log(john);
